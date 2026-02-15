@@ -8,5 +8,5 @@ In this project, I will use Python and [Jupyter Notebook](https://Jupyter.org/) 
 # About Me
 My name is **Fatemeh Rezaei**, I am interested in wood engineering and nondestructive evaluation. 
 Below is my profesional photograph.
-! [photograph of Fatemeh Rezaei](Fafare.jpg)
+! [photograph of Fatemeh Rezaei](FafaRe.jpg)
 
